@@ -1,0 +1,23 @@
+{
+  "name": "hyper-bitlogic",
+  "version": "0.0.1",
+  "license": "MIT",
+  "author": {
+    "name": "Martín Di Palma",
+    "email": "tinchodipalma@gmail.com",
+    "url": "https://github.com/tinchodipalma"
+  },
+  "repository": "https://github.com/tinchodipalma/hyper-bitlogic",
+  "files": [
+    "index.js",
+    "backgrounds"
+  ],
+  "keywords": [
+    "hyper",
+    "theme",
+    "bitlogic",
+    "hyper-bitlogic"
+  ],
+  "description": "🔵 Bitlogic theme for Hyper",
+  "dependencies": {}
+}
